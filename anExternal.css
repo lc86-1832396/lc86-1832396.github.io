@@ -1,0 +1,33 @@
+body {
+  background-color: #BDB76B;
+}
+
+h1 {
+  color: purple;
+  text-align: center;
+}
+
+p {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
+
+.left-float {
+  float: left;
+  background: 	#FFD700;
+  padding: 15px;
+}
+
+.right-float {
+  float: right;
+  background: 	#8B00FF;
+  padding: 15px;
+}
+
+#rounded-corner {
+  border-radius: 25px;
+  border: 2px solid #CC7722;
+  padding: 20px;
+  width: 100px;
+  height: 50px;
+}
